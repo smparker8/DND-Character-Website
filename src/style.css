@@ -1,0 +1,21 @@
+h1 {
+  color: brown;
+  font-family: "Fuggles", cursive;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.dark {
+  background-color: #036003;
+  color: #d3d3d3;
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+}
+
+.light {
+  background-color: #d3d3d3;
+  color: #036003;
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+}
