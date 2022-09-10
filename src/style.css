@@ -80,7 +80,6 @@ body {
   transform: rotateY(-180deg);
 }
 
-.card,
-.card-img-top {
+.card {
   border-radius: 10px;
 }
